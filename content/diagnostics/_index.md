@@ -1,5 +1,7 @@
 ---
 title: Diagnostics
+cascade:
+  type: docs
 ---
 
 These pages contain diagnostic descriptions. These descriptions are generated from [rule descriptions](https://github.com/markusamshove/natls/tree/main/tools/ruletranslator/src/main/resources/rules) within the main NatLS repository.

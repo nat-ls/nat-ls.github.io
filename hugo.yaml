@@ -38,7 +38,12 @@ taxonomies:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 64
+      height: 64
 
   footer:
     displayCopyright: false

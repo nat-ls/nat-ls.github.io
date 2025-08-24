@@ -33,7 +33,7 @@ It features analysis rules that help to find potential bugs and code smells in N
 As an example, in the following code snippet a file path is constructed using `COMPRESS` and then used in a `DEFINE WORK FILE` statement.
 
 ```natural
-COMPRESS '$HOME/folder' #FILENAME INTO #FILEPATH 
+COMPRESS '$HOME/folder/' #FILENAME INTO #FILEPATH 
 DEFINE WORK FILE 1 #FILEPATH
 ```
 

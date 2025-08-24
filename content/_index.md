@@ -3,6 +3,8 @@ title: Natural Language Server (NatLS)
 toc: false
 ---
 
+[![GitHub Releases](https://img.shields.io/github/v/release/markusamshove/natls?color=blue)](https://github.com/MarkusAmshove/natls/releases/tag/v0.16)
+
 ###
 
 NatLS is a language server implementation for the [Natural language](https://en.wikipedia.org/wiki/ADABAS#Natural_(4GL)) created by Software AG.
@@ -10,6 +12,8 @@ NatLS is a language server implementation for the [Natural language](https://en.
 It aims to provide useful features to drive daily development in Natural and provide a modern approach for development tools for Natural.
 
 A [VS Code extension](https://marketplace.visualstudio.com/items?itemName=markusamshove.vscode-natural) is available to use the language server in Visual Studio Code. This extension serves as a reference client implementation and is already used for daily Natural development.
+
+The latest release of tools are available on [GitHub Releases](https://github.com/MarkusAmshove/natls/releases/tag/v0.16).
 
 ## Explore
 
